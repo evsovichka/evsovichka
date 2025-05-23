@@ -9,10 +9,12 @@
 
 ### 👩‍💻 About Me
 
+Hi! I’m a Junior Full-Stack Developer with a non-traditional background — I have a degree in Finance and spent 5 years working as a florist. My attention to detail and love for structured, precise work led me to complete a year-long full-stack development course, and now I’m focused on building user-friendly, well-structured web applications.
+
 - 🛠️ Tech Stack: JavaScript, React, Node.js, HTML, CSS
 - 🌱 Currently exploring: TypeScript
 - 🎯 Focused on writing clean, maintainable code and building user-friendly web applications
-- 🤝 I love working in teams and appreciate good communication
+- 💬 I’m always open to feedback and enjoy working in friendly, communicative teams.
 - 🔍 Always open to feedback and new challenges!
 
 ---
